@@ -3,6 +3,8 @@ CV y portafolio
 
 https://priscilaescobargimpel.github.io/
 
+https://priscilaescobargimpel.github.io/portafolio.html
+
 Link a commits y pull request de proyectos forkeados de compañeros:
 
 https://github.com/PriscilaEscobarGimpel/mi-primer-repo
